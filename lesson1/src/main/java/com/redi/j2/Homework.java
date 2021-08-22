@@ -17,6 +17,7 @@ public class Homework {
 
     public static void printTree(int height) {
         // Implement me :)
+
     }
 
 }
